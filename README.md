@@ -2,6 +2,9 @@
 Planilha de rendimentos 
 
 Confeccionada com as fórmulas mais complexas do Excel, a planilha ajuda no cálculo dos rendimentos bancários com um detalhamento que o banco não informa
+Infelizmente o arquivo é grande demais para estar aqui, porém, caso necessite, envie-me uma mensagem por aqui ou pelo email na sessão "about-me" que terei o prazer de enviá-la a ti.
+
+A planilha conta com Procv, Se..então e outras
 
 Seguem abaixo algumas as telas de exemplo
 
