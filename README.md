@@ -8,7 +8,7 @@ A planilha conta com Procv, Se..então e outras
 
 Seguem abaixo algumas as telas de exemplo
 
-*OBS.: Os valores são ficticios e não condizem com a realizada de empresa*
+*OBS.: Os valores são ficticios e não condizem com a realidade da empresa*
 
 ![Planilha - TELA 01](https://user-images.githubusercontent.com/67910137/148361555-9831093b-cfd1-4d1a-aa74-bcad28410580.png)
 _______________________________________________________________
